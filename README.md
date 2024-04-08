@@ -17,7 +17,7 @@ This is the implementation of a student roster program as part of the WGU Script
 - Upon running the program, follow the on-screen instructions to perform various operations on the student roster.
 - Use the menu options to add, remove, or display student information as needed.
 ### Example
-cpp
+''' cpp
 Copy code
 // Sample code snippet demonstrating usage
 #include "roster.h"
@@ -32,3 +32,4 @@ int main() {
     roster.removeStudent("John Doe");
     return 0;
 }
+'''
